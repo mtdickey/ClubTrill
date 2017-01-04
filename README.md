@@ -10,7 +10,7 @@ How does one achieve a trillion? Imagine a walk-on at the end of a blow-out NCAA
 
   - *This* would be a **one**-trillion (a one in the first column of the box score, followed by 12 zeros) 
   
-  - If he had played two minutes, it would be a two trillion
+  - If he had played two minutes, it would be a two trillion... and so on.
 
 On this site, we will explore the most irrelevant bench-warmers in college basketball since the 2010-2011 season (when box-scores became available on [Sports Reference](http://www.sports-reference.com/cbb/boxscores/)).  Join me in giving some undeserved attention to these players. 
 
