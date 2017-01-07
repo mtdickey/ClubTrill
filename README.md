@@ -8,7 +8,7 @@ How does one achieve a trillion? Imagine a walk-on at the end of a blow-out coll
 
 - Fails to record a single stat during the game (no points, rebounds, assists, turnovers, etc.)
 
-  - *This* would be a **one**-trillion (a one in the first column of the box score, followed by 12 zeros) 
+  - *This* would be a **one**-trillion (a one in the first column of the box score, followed by 12*ish* zeros) 
   
   - If he had played two minutes, it would be a two trillion... and so on.
 
