@@ -17,3 +17,9 @@ On this site, we will explore the most irrelevant bench-warmers in college baske
 ## Who totaled the most minutes in their Trillion games?
 
    ![Minutes](TopTrillPlayerMinutes.PNG)
+
+It looks like Phillip Johnson from Incarnate Word is the head of the trillion club... or is he?
+
+According to the father of the trillion,[the trillion ['loses its value'](http://clubtrillion.blogspot.com/2009/12/abhor-more-than-four.html?m=0) beyond 4 minutes of action.  So, let's look at how these same players compare in terms of number of trillions recorded, and color each one by it's number of minutes:
+
+  ![Individualized and Minute Color](IndividualTrillsColorByMinutes.PNG)
