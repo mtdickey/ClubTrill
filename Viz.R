@@ -90,10 +90,11 @@ PlayerTotals <- head(clubTrill %>% group_by(Players, playersTeam) %>%
                     summarise(TotalMin = sum(Minutes)) %>% arrange(desc(TotalMin)), 10) 
 PlayerTotals$PlayerName <- paste0(substr(word(PlayerTotals$Players, 2, sep = ","), 1, 1), ". ", word(PlayerTotals$Players, 1, sep = ","))
 ggplot(PlayerTotals, aes(x = reorder(PlayerName, -TotalMin), y = TotalMin)) + geom_bar(stat = "identity") +
-  labs(x = "Player", y= "Minutes Played Without a Stat") +
+  labs(x = "\n\nPlayer", y= "Minutes Played Without a Stat\n") +  # adding another space between player name and title for space for logos
   ggtitle(expression(atop("NCAA Trillionaires", atop(italic("2010-2015 Seasons"), "")))) + 
   theme(axis.title = element_text(size = 16),
-        axis.text = element_text(size = 13),
+        axis.text.x = element_text(size = 13),
+        axis.text.y = element_text(size = 14),
         title = element_text(size = 18))
 
 ## Top players by number of trills -- each trill colored by minutes
