@@ -117,7 +117,7 @@ ggplot(PlayerObs, aes(x = factor(PlayerName, levels = c("J. Flash",
                                                         "J. Floyd")), fill = minGroups)) + 
   geom_dotplot(stackgroups = T, binwidth = .325, method = "histodot") +
   labs(x = "\n\nPlayer", y = "Number of Trills\n\n", fill = "Minutes Played") +
-  ggtitle(expression(atop("NCAA Trillionaires", atop(italic("2010-2015 Seasons"), "")))) + 
+  ggtitle(expression(atop("NCAA Trillionaires", atop(italic("2010-11 to 2015-16 Seasons"), "")))) + 
   theme(axis.text.y = element_blank(),
         axis.title.y = element_text(size = 15, margin = margin(0,0,0,20)),
         axis.title.x = element_text(size = 15, margin = margin(0,0,20,0)),
@@ -130,3 +130,5 @@ ggplot(PlayerObs, aes(x = factor(PlayerName, levels = c("J. Flash",
                                "3" = "#78c679",
                                "4" = "#31a354",
                                "5+" = "#006837")) 
+
+PlayerObs %>% filter(minGroups != "5+") %>% group_by(PlayerName) %>% summarise(TotalMin = sum(Minutes)) %>% arrange(desc(TotalMin))
