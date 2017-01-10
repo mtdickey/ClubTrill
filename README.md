@@ -20,7 +20,7 @@ On this site, we will explore the most irrelevant bench-warmers in college baske
 
 It looks like Phillip Johnson from Incarnate Word is the head of the trillion club with 99 minutes... But wait, is he really?
 
-According to the father of the trillion, Mark Titus, the trillion ["loses its value"](http://clubtrillion.blogspot.com/2009/12/abhor-more-than-four.html?m=0) beyond 4 minutes of action.  So, let's look at how these same players compare in terms of number of trillions recorded, and color each Trillion by it's number of minutes:
+According to the father of the trillion, Mark Titus, the trillion ["loses its value"](http://clubtrillion.blogspot.com/2009/12/abhor-more-than-four.html?m=0) beyond 4 minutes of action.  So, let's look at how these same players compare in terms of number of trillions recorded, and color each Trillion by its number of minutes:
 
   ![Individualized and Minute Color](IndividualTrillsColorByMinutes.PNG)
 
