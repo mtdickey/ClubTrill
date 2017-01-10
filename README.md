@@ -14,4 +14,6 @@ How does one achieve a trillion? Imagine a walk-on at the end of a blow-out coll
 
 On this site, we will explore the most irrelevant bench-warmers in college basketball since the 2010-2011 season (when box-scores became available on [Sports Reference](http://www.sports-reference.com/cbb/boxscores/)).  Join me in giving some undeserved attention to these players. 
 
-Visualizations coming soon!
+## Who totaled the most minutes in their Trillion games?
+
+   ![Minutes](TopTrillPlayerMinutes.PNG)
