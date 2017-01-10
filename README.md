@@ -25,7 +25,9 @@ According to the father of the trillion, Mark Titus, the trillion ["loses its va
   ![Individualized and Minute Color](IndividualTrillsColorByMinutes.PNG)
 
 
-Phillip Johnson may have dominated the total minutes of Trillions, but when we use the 'No More Than Four' Rule, we see a new picture.   From the graphic above, you can see that PJ had the most 5+ minute games, with 8 to his name -- including a stunning [23 trillion against Oklahoma](http://www.sports-reference.com/cbb/boxscores/2015-11-24-oklahoma.html).  So disregarding those 5+ minute games reveals a new champion, [Jamel Flash from Towson](http://www.towsontigers.com/roster.aspx?rp_id=5946). Jamel had the most overall Trillions of this group with 25, but he also recorded a great amount of 2-4 minute trillions.  Congratulations to Jamel Flash, our OFFICIAL TRILLION CHAMPION!
+Phillip Johnson may have dominated the total minutes of Trillions, but when we use the 'No More Than Four' Rule, we see a new picture.   From the graphic above, you can see that PJ had the most 5+ minute games, with 8 to his name -- including a stunning [23 trillion against Oklahoma](http://www.sports-reference.com/cbb/boxscores/2015-11-24-oklahoma.html).  
+
+So disregarding those 5+ minute games reveals a new champion, [Jamel Flash from Towson](http://www.towsontigers.com/roster.aspx?rp_id=5946). Jamel had the most overall Trillions of this group with 25, but he also recorded a great amount of 2-4 minute trillions.  Congratulations to Jamel Flash, our OFFICIAL TRILLION CHAMPION!
 
 
 P.S. Here's a table with the top 10 by total minutes of trill, disregarding 5+ minute trillions:
