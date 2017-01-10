@@ -90,8 +90,8 @@ PlayerTotals <- head(clubTrill %>% group_by(Players, playersTeam) %>%
                     summarise(TotalMin = sum(Minutes)) %>% arrange(desc(TotalMin)), 10) 
 PlayerTotals$PlayerName <- paste0(substr(word(PlayerTotals$Players, 2, sep = ","), 1, 1), ". ", word(PlayerTotals$Players, 1, sep = ","))
 ggplot(PlayerTotals, aes(x = reorder(PlayerName, -TotalMin), y = TotalMin)) + geom_bar(stat = "identity") +
-  labs(x = "\n\nPlayer", y= "Minutes Played Without a Stat\n") +  # adding another space between player name and title for space for logos
-  ggtitle(expression(atop("NCAA Trillionaires", atop(italic("2010-2015 Seasons"), "")))) + 
+  labs(x = "\n\nPlayer", y= "Minutes in Games Without a Stat\n") +  # adding another space between player name and title for space for logos
+  ggtitle(expression(atop("NCAA Trillionaires", atop(italic("2010-11 to 2015-16 Seasons"), "")))) + 
   theme(axis.title = element_text(size = 16),
         axis.text.x = element_text(size = 13),
         axis.text.y = element_text(size = 14),
@@ -116,7 +116,7 @@ ggplot(PlayerObs, aes(x = factor(PlayerName, levels = c("J. Flash",
                                                         "D. Hubert",
                                                         "J. Floyd")), fill = minGroups)) + 
   geom_dotplot(stackgroups = T, binwidth = .325, method = "histodot") +
-  labs(x = "\nPlayer", y = "Number of Trills\n\n", fill = "Minutes Played") +
+  labs(x = "\n\nPlayer", y = "Number of Trills\n\n", fill = "Minutes Played") +
   ggtitle(expression(atop("NCAA Trillionaires", atop(italic("2010-2015 Seasons"), "")))) + 
   theme(axis.text.y = element_blank(),
         axis.title.y = element_text(size = 15, margin = margin(0,0,0,20)),
