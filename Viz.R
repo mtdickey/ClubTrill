@@ -122,7 +122,8 @@ ggplot(PlayerObs, aes(x = factor(PlayerName, levels = c("J. Flash",
         axis.title.y = element_text(size = 15, margin = margin(0,0,0,20)),
         axis.title.x = element_text(size = 15, margin = margin(0,0,20,0)),
         axis.text.x = element_text(size = 11),
-        title = element_text(size = 16)) +
+        title = element_text(size = 16),
+        panel.grid.major = element_blank(), panel.grid.minor = element_blank()) +
   guides(fill = guide_legend(override.aes = list(size=9))) +
   scale_fill_manual(values = c("1" = "#ffffcc",
                                "2" = "#c2e699",
