@@ -28,7 +28,23 @@ According to the father of the trillion, Mark Titus, the trillion ["loses its va
 Phillip Johnson may have dominated the total minutes of Trillions, but when we use the 'No More Than Four' Rule, we see a new picture.   From the graphic above, you can see that PJ had the most 5+ minute games, with 8 to his name -- including a stunning [23 trillion against Oklahoma](http://www.sports-reference.com/cbb/boxscores/2015-11-24-oklahoma.html).  So disregarding those 5+ minute games reveals a new champion, [Jamel Flash from Towson](http://www.towsontigers.com/roster.aspx?rp_id=5946). Jamel had the most overall Trillions of this group with 25, but he also recorded a great amount of 2-4 minute trillions.  Congratulations to Jamel Flash, our OFFICIAL TRILLION CHAMPION!
 
 
-P.S. That 23 trillion by Phillip Johnson wasn't even the longest one in this time span. A 26 trillion (65% of a game) was accomplished by both [Travis Berry of Sacred Heart](http://www.sports-reference.com/cbb/boxscores/2015-11-13-sacred-heart.html) and [Carlton Lowe of Grambling](http://www.sports-reference.com/cbb/boxscores/2016-01-02-grambling.html))
+P.S. Here's a table with the top 10 by total minutes of trill, disregarding 5+ minute trillions:
+
+Rank | Player  | Minutes 
+---- | ------- | ------- 
+1 | J. Flash | 42 
+2 | M. Roelke | 32
+3 | D. Peera  | 31 
+3 | J. Polson  | 31
+5 | C. Sager  | 28 
+6 | B. Price  | 26 
+7 | N. Musters  | 24  
+7 | P. Johnson  | 24  
+9 | D. Hubert  | 23 
+10 | J. Floyd  | 16 
+
+
+P.P.S. That 23 trillion by Phillip Johnson wasn't even the longest one in this time span. A 26 trillion (65% of a game) was accomplished by both [Travis Berry of Sacred Heart](http://www.sports-reference.com/cbb/boxscores/2015-11-13-sacred-heart.html) and [Carlton Lowe of Grambling](http://www.sports-reference.com/cbb/boxscores/2016-01-02-grambling.html))
  
 
 ### Coming soon: A searchable table (with box-score links) of all Trillions since the 2010-11 Season
