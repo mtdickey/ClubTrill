@@ -14,7 +14,7 @@ How does one achieve a trillion? Imagine a walk-on at the end of a blow-out coll
 
 On this site, we will explore the most irrelevant bench-warmers in college basketball since the 2010-2011 season (when box-scores became available on [Sports Reference](http://www.sports-reference.com/cbb/boxscores/)).  Join me in giving some undeserved attention to these players. 
 
-## Who totaled the most minutes in their Trillion games?
+## Who totaled the most minutes in their trillion games?
 
    ![Minutes](TopTrillPlayerMinutes.PNG)
 
@@ -25,9 +25,9 @@ According to the father of the trillion, Mark Titus, the trillion ["loses its va
   ![Individualized and Minute Color](IndividualTrillsColorByMinutes.PNG)
 
 
-Phillip Johnson may have dominated the total minutes of Trillions, but when we use the 'No More Than Four' Rule, we see a new picture.   From the graphic above, you can see that PJ had the most 5+ minute games, with 8 to his name -- including a stunning [23 trillion against Oklahoma](http://www.sports-reference.com/cbb/boxscores/2015-11-24-oklahoma.html).  
+Phillip Johnson may have dominated the total minutes of trillions, but when we use the 'No More Than Four' Rule, we see a new picture.   From the graphic above, you can see that PJ had the most 5+ minute games, with 8 to his name -- including a stunning [23 trillion against Oklahoma](http://www.sports-reference.com/cbb/boxscores/2015-11-24-oklahoma.html).  
 
-So disregarding those 5+ minute games reveals a new champion, [Jamel Flash from Towson](http://www.towsontigers.com/roster.aspx?rp_id=5946). Jamel had the most overall Trillions of this group with 25, but he also recorded a great amount of 2-4 minute trillions.  Congratulations to Jamel Flash, our OFFICIAL TRILLION CHAMPION!
+So disregarding those 5+ minute games reveals a new champion, [Jamel Flash from Towson](http://www.towsontigers.com/roster.aspx?rp_id=5946). Jamel had the most overall trillions of this group with 25, but he also recorded a great amount of 2-4 trillions.  Congratulations to Jamel Flash, our OFFICIAL TRILLION CHAMPION!
 
 
 P.S. Here's a table with the top 10 by total minutes of trill, disregarding 5+ minute trillions:
@@ -49,4 +49,4 @@ Rank | Player  | Minutes
 P.P.S. That 23 trillion by Phillip Johnson wasn't even the longest one in this time span. A 26 trillion (65% of a game) was accomplished by both [Travis Berry of Sacred Heart](http://www.sports-reference.com/cbb/boxscores/2015-11-13-sacred-heart.html) and [Carlton Lowe of Grambling.](http://www.sports-reference.com/cbb/boxscores/2016-01-02-grambling.html)
  
 
-### Coming soon: A searchable table (with box-score links) of all Trillions since the 2010-11 Season
+### Coming soon: A searchable table (with box-score links) of all trillions since the 2010-11 Season
