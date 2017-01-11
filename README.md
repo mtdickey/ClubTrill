@@ -49,4 +49,4 @@ Rank | Player  | Minutes
 P.P.S. That 23 trillion by Phillip Johnson wasn't even the longest one in this time span. A 26 trillion (65% of a game) was accomplished by both [Travis Berry of Sacred Heart](http://www.sports-reference.com/cbb/boxscores/2015-11-13-sacred-heart.html) and [Carlton Lowe of Grambling.](http://www.sports-reference.com/cbb/boxscores/2016-01-02-grambling.html)
  
 
-### Coming soon: A searchable table (with box-score links) of all trillions since the 2010-11 Season
+### New: [A searchable table of all trillions in the database](https://mtdickey.shinyapps.io/TrillionFinder/)  -- looking to upgrade with boxscore links soon!
