@@ -1,6 +1,6 @@
 # Trillionaires of College Basketball
 
-The "trillion" is the most irrelevant statistic in all of basketball. This is due to just that, the metric measures the irrelevance of a basketball player.
+The "trillion" is the most irrelevant statistic in all of basketball. This is by design as the metric is meant to measure the irrelevance of a player.
 
 How does one achieve a trillion? Imagine a walk-on at the end of a blow-out college basketball game:
 
