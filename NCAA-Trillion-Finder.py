@@ -24,7 +24,7 @@ html = response.read()
 soup = BeautifulSoup(html, 'lxml')
 
 # Gather urls for each day
-start_date = date(2010, 11, 8)
+start_date = date(2010, 11, 8) ## first day box scores are available on Sports Reference
 end_date = date.today()
 
 ## Function to get all days between two dates
